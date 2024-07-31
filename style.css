@@ -1,5 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AR:wght@100..400&display=swap');
 li{
     display: inline;
     padding: 0px 5px 10px 15px;
     float: right;
+}
+a{
+    font-family: "Playwrite AR", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
 }
